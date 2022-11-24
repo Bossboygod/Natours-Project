@@ -54,7 +54,6 @@
 
         @include respond(phone){
             width: 100%;
-            padding: 1rem 3rem;
         }
     }
 
@@ -84,8 +83,7 @@
         hyphens: auto;
 
         @include respond(phone){
-            font-size: 1.3rem;
-            margin-bottom: 2rem;
+            
         }
     }
 
